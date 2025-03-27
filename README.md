@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/Yb7kqdFMyJGyU/giphy.gif](https://media.giphy.com/media/gUvLYSSMguiSk/giphy.gif?cid=790b7611khybeuextk47s6nc8vftn8z4qu2tufg2f7ppr05e&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="200" height="200"/>
+  <img src="https://media.giphy.com/media/gUvLYSSMguiSk/giphy.gif" width="200" height="200"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## 🎨 📊 Languages I Use Commonly  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitapradhan19&layout=compact&theme=tokyonight&bg_color=FF69B4" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitapradhan19&layout=compact&theme=ayu-mirage" width="40%" />
 </p>
 
 ---
