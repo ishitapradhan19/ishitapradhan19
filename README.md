@@ -1,25 +1,25 @@
-<!--
-**ishitapradhan19/ishitapradhan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=FF1493&height=100"/>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=FF69B4&height=100"/>
+  <img src="[https://media.giphy.com/media/Yb7kqdFMyJGyU/giphy.gif](https://media.giphy.com/media/gUvLYSSMguiSk/giphy.gif?cid=790b7611khybeuextk47s6nc8vftn8z4qu2tufg2f7ppr05e&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="200" height="200"/>
 </p>
 
 ---
 
-## 👩🏻‍💻 About Me  
+## 🌸 👩🏻‍💻 About Me  
 
-🚀 Passionate about backend development  
+🚀 <span style="color:#FF69B4;">Passionate about backend development</span>  
 💻 Love working with **JavaScript, Node.js, Postman, and MySQL**  
 🔍 Exploring API development and testing with **Postman**  
 📫 Reach me at: [ishita.pradhan3010@gmail.com](mailto:ishita.pradhan3010@gmail.com)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-pradhan-067339247/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-pradhan-067339247/)  
 
 ---
 
-## 🛠 Tech Stack  
+## 🎀 🛠 Tech Stack  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
@@ -37,10 +37,10 @@
 
 ---
 
-## 📊 Languages I Use Commonly  
+## 🎨 📊 Languages I Use Commonly  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitapradhan19&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitapradhan19&layout=compact&theme=tokyonight&bg_color=FF69B4" width="40%" />
 </p>
 
 ---
@@ -48,5 +48,5 @@
 ## ✨ Inspiration  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=pink" />
 </p>
