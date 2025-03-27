@@ -34,15 +34,11 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishitapradhan19&show_icons=true&theme=radical"/>
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitapradhan19&layout=compact&theme=radical"/>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishitapradhan19&style=for-the-badge"/>
-</p>
+
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
  
 
