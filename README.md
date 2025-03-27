@@ -10,7 +10,7 @@
 
 ## 🌸 👩🏻‍💻 About Me  
 
-🚀 <span style="color:#FF69B4;">Passionate about backend development</span>  
+🚀 <span style="color:#FF69B4;">Bridging Frontend Elegance with Backend Power</span>  
 💻 Love working with **JavaScript, Node.js, Postman, and MySQL**  
 🔍 Exploring API development and testing with **Postman**  
 📫 Reach me at: [ishita.pradhan3010@gmail.com](mailto:ishita.pradhan3010@gmail.com)  
