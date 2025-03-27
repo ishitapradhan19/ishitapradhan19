@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=FF69B4&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Welcome!&fontColor=ff00ff&type=waving&color=FF69B4&height=100"/>
 </p>
+
