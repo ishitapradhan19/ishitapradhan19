@@ -37,13 +37,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishitapradhan19&show_icons=true&theme=radical" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishitapradhan19&theme=radical" width="48%" />
-</p>
+## 📊 Languages I Use Commonly  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitapradhan19&layout=compact&theme=radical" width="40%" />
